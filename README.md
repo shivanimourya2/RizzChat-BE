@@ -6,7 +6,7 @@ The backend service for **RizzChat**, a real-time group chat application built w
 
 ## 🔗 Frontend Repository
 
-https://github.com/shivanimourya2/RizzChat
+https://github.com/shivanimourya2/RizzChat-FE.git
 
 ## 🌐 Live Demo
 
